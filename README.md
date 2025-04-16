@@ -1,16 +1,72 @@
-# isyara
+# 🤟 Isyara - Aplikasi Penerjemah Bahasa Isyarat
 
-A new Flutter project.
+**Isyara** adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu komunikasi antara teman tuli dan masyarakat umum dengan menerjemahkan **bahasa isyarat ke dalam teks** secara real-time menggunakan kamera.
 
-## Getting Started
+> ✨ _Menghubungkan dunia lewat bahasa isyarat, satu gerakan dalam satu waktu._
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚧 Status Pengembangan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔧 **Isyara saat ini masih dalam tahap pengembangan aktif.**  
+Fitur-fitur utama sedang dibangun dan diuji. Stay tuned untuk update selanjutnya!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Fitur (Planned)
+
+- 📷 **Penerjemahan Bahasa Isyarat Real-Time**  
+  Menggunakan kamera untuk mengenali gerakan tangan dan mengubahnya menjadi teks.
+
+- 💬 **Riwayat Terjemahan**  
+  Menyimpan hasil terjemahan yang bisa diakses kapan saja.
+
+- 🌓 **Light & Dark Mode**  
+  Tampilan antarmuka modern dengan dukungan tema terang dan gelap.
+
+- 📱 **Dukungan Multi-Platform**  
+  Dibuat dengan Flutter untuk Android dan iOS.
+
+---
+
+## ⚙️ Cara Menjalankan Proyek
+
+Pastikan kamu sudah menginstal [Flutter SDK](https://flutter.dev/docs/get-started/install):
+
+```bash
+git clone https://github.com/hafizzibrahim/isyara.git
+cd isyara
+flutter pub get
+flutter run
+```
+
+> 💡 Jalankan di emulator atau perangkat fisik untuk hasil terbaik.
+
+---
+
+## 🧰 Teknologi yang Digunakan
+
+- **Flutter** – Framework UI modern dari Google
+- **Dart** – Bahasa pemrograman utama
+- **Camera Plugin** – Untuk menangkap gerakan tangan
+- **(Optional)** TensorFlow Lite – Jika ada fitur pengenalan gesture dengan model ML
+
+---
+
+## 👤 Kontributor
+
+- Hafiz Ibrahim – [@yourusername](https://github.com/hafizzibrahim)
+
+---
+
+## 📜 Lisensi
+
+Proyek ini menggunakan lisensi [MIT](LICENSE).  
+Silakan digunakan, dimodifikasi, dan dikembangkan lebih lanjut oleh siapa saja.
+
+---
+
+## 🌟 Dukungan
+
+Kalau kamu tertarik atau merasa proyek ini bermanfaat, jangan lupa untuk kasih ⭐ di repo ini ya!  
+Setiap bentuk dukungan membantu banget 💙
